@@ -1,2 +1,2 @@
-# BoJstudy
-Baekjoon Algorithm Study
+# C
+C Study Code
